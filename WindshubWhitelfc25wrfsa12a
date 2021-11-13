@@ -1,0 +1,91 @@
+local number = 1
+if game.Players.LocalPlayer.Name == 'TheForceOfWind' then
+	number = 50446819
+
+
+elseif game.Players.LocalPlayer.Name == 'il_manu' then
+	number = 1189895702
+
+elseif game.Players.LocalPlayer.Name == 'xqGabrielz' then
+	number = 683390135
+
+elseif game.Players.LocalPlayer.Name == 'il_manu3' then
+	number = 2299283602
+
+elseif game.Players.LocalPlayer.Name == 'Bloody_Archangel' then
+	number = 589931813
+
+elseif game.Players.LocalPlayer.Name == 'AllMightyDesires' then
+	number = 797816410
+	
+elseif game.Players.LocalPlayer.Name == 'ProLiFlix1' then
+	number = 968557989
+
+
+	
+
+elseif game.Players.LocalPlayer.Name == 'ItsIgglo' then
+	number = 1803742772
+
+
+	
+elseif game.Players.LocalPlayer.Name == 'Hectiq1' then
+	number = 163395980
+
+elseif game.Players.LocalPlayer.Name == 'ThePerfectTorpRipOff' then
+	number = 2433603109
+	
+elseif game.Players.LocalPlayer.Name == 'dferdfe' then
+	number = 153078
+	elseif game.Players.LocalPlayer.Name == 'vxqxI99Cudo3527840X' then
+	number = 1928017225
+elseif game.Players.LocalPlayer.Name == 'ThePoisonousVoid' then
+	number = 1737043543
+elseif game.Players.LocalPlayer.Name == 'RockyRoll2006' then
+	number = 95935298
+elseif game.Players.LocalPlayer.Name == 'Bananouce' then
+	number = 1760871312
+elseif game.Players.LocalPlayer.Name == 'Killerbobjoe17' then
+	number = 464889193
+elseif game.Players.LocalPlayer.Name == 'doctorgoom' then
+	number = 335115076
+elseif game.Players.LocalPlayer.Name == 'LucasOtasaka' then
+	number = 382910936
+
+elseif game.Players.LocalPlayer.Name == 'GeiNaGe' then
+	number = 945431239
+
+elseif game.Players.LocalPlayer.Name == 'IiCoolkidgamerboycat' then
+	number = 1040344458
+elseif game.Players.LocalPlayer.Name == 'ThooomaasK' then
+	number = 2030627168
+elseif game.Players.LocalPlayer.Name == 'EricBadForcePro' then
+	number = 2965055911
+	elseif game.Players.LocalPlayer.Name == 'TheForceOfWindEvil' then
+	number = 2753140005
+elseif game.Players.LocalPlayer.Name == 'MatriboxInspiredMe' then
+	number = 2753948938
+elseif game.Players.LocalPlayer.Name == 'AndrejBabisJeBuh' then
+	number = 1428506130
+
+
+elseif game.Players.LocalPlayer.Name == 'denis15648' then
+	number = 64484975
+
+elseif game.Players.LocalPlayer.Name == 'Broodje_Eend' then
+	number = 290970734
+elseif game.Players.LocalPlayer.Name == 'paulobrasil33' then
+	number = 100064457
+elseif game.Players.LocalPlayer.Name == 'JustABTMain' then
+	number = 2904588590
+elseif game.Players.LocalPlayer.Name == 'BOSSGAMING95' then
+	number = 576825629
+elseif game.Players.LocalPlayer.Name == 'Rocket60in60' then
+	number = 1892506055
+elseif game.Players.LocalPlayer.Name == 'UPAP0N' then
+	number = 1985818061
+elseif game.Players.LocalPlayer.Name == 'Ngurumo' then
+	number = 305832627
+
+
+end
